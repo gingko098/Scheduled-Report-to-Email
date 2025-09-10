@@ -56,7 +56,3 @@ Skrip ini adalah **Scheduled Script** yang dibuat untuk mengotomatisasi pengirim
 ### Kustomisasi
 * **Mengubah Saved Search**: Ganti ID `'customsearch_ar_aging'` pada baris `mySearch` dengan ID Saved Search yang ingin Anda gunakan.
 * **Mengubah Konten CSV**: Sesuaikan kode di dalam `mySearch.run().each()` untuk mengambil kolom-kolom data yang berbeda dari Saved Search Anda.
-
----
-### Penulis
-[Nama Anda atau Tim Anda]
